@@ -2,3 +2,5 @@
 User-agent: *
 Disallow: /politica-de-privacidade
 Disallow: /termos-e-condicoes
+
+Sitemap: https://wifixit.pt/sitemap.xml
