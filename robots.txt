@@ -1,3 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Disallow: /politica-de-privacidade
+Disallow: /termos-e-condicoes
